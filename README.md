@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @epimethrius
-- 👀 I’m interested in game bots development
-- 🌱 I’m currently learning web parsing and bot development
+- 👀 I’m interested in game development, software testing and automation
+- 🌱 I’m currently learning advanced software testing technologies and C# / ReactNative programming
 - 📫 How to reach me: e-mail to epimethrius@outlook.com
 
 <!---
